@@ -89,7 +89,7 @@ The author does **not support or encourage unethical hacking activities**.
 ## 📸 Output Screenshots
 
 ### 🔹 SQL Injection – Test Case 1
-<img width="1891" height="836" alt="SQL Injection Test 1" src="https://github.com/user-attachments/assets/cecc89da-44f1-402f-b37b-3b1cb3c1ca22" />
+<img width="1891" height="836" alt="SQL Injection Test 1" src="https://github.com/tallamharika/Security_Task3/blob/main/SQLinjectiontest.png" />
 
 ### 🔹 SQL Injection – Test Case 2
 <img width="1871" height="882" alt="SQL Injection Test 2" src="https://github.com/tallamharika/Security_Task3/blob/main/SQLtesting%20vulnerable.png" />
