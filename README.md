@@ -100,6 +100,3 @@ The author does **not support or encourage unethical hacking activities**.
 ### 🔹 Cross-Site Scripting (XSS) – Test Case 2
 <img width="1602" height="936" alt="XSS Test 2" src="https://github.com/tallamharika/Security_Task3/blob/main/Xssresuits.png" />
 OWASP ZAP – Automated Security Alerts
-
-Description: Vulnerabilities detected using OWASP ZAP including missing security headers, cookie issues, and potential injection points.
-<img width="1897" height="877" alt="XSS Test 1" src="https://github.com/tallamharika/Security_Task3/blob/main/XSStest.png" />
