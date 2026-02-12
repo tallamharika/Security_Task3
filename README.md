@@ -103,4 +103,4 @@ OWASP ZAP – Automated Security Alerts
 
 Description: Vulnerabilities detected using OWASP ZAP including missing security headers, cookie issues, and potential injection points.
 
-<img width="1600" alt="OWASP ZAP Alerts" src="PASTE_YOUR_ZAP_ALERT_SCREENSHOT_LINK_HERE" />
+<img width="1600" alt="https://github.com/tallamharika/Security_Task3/blob/main/alerts_demo_testfire.png" />
