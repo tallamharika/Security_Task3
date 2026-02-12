@@ -95,7 +95,7 @@ The author does **not support or encourage unethical hacking activities**.
 <img width="1871" height="882" alt="SQL Injection Test 2" src="https://github.com/user-attachments/assets/344a6877-bf6f-4b7d-9a99-2d3832f3f1c4" />
 
 ### 🔹 Cross-Site Scripting (XSS) – Test Case 1
-<img width="1897" height="877" alt="XSS Test 1" src="https://github.com/user-attachments/assets/d785384f-e9e4-4416-83fa-10faad4b7502" />
+<img width="1897" height="877" alt="XSS Test 1" src="https://github.com/tallamharika/Security_Task3/blob/main/XSStest.png" />
 
 ### 🔹 Cross-Site Scripting (XSS) – Test Case 2
 <img width="1602" height="936" alt="XSS Test 2" src="https://github.com/user-attachments/assets/bb01d586-87b2-4462-b2d1-82ad7ba3105a" />
