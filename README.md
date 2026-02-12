@@ -98,4 +98,4 @@ The author does **not support or encourage unethical hacking activities**.
 <img width="1897" height="877" alt="XSS Test 1" src="https://github.com/tallamharika/Security_Task3/blob/main/XSStest.png" />
 
 ### 🔹 Cross-Site Scripting (XSS) – Test Case 2
-<img width="1602" height="936" alt="XSS Test 2" src="https://github.com/user-attachments/assets/bb01d586-87b2-4462-b2d1-82ad7ba3105a" />
+<img width="1602" height="936" alt="XSS Test 2" src="https://github.com/tallamharika/Security_Task3/blob/main/Xssresuits.png" />
