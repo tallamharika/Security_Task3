@@ -3,7 +3,7 @@
 ## 📌 Internship Details
 
 - **Company:** CODETECH IT SOLUTIONS  
-- **Intern Name:** Tallam Harika  
+- **Intern Name:** TALLAM HARIKA 
 - **Intern ID:** CTIS5321  
 - **Domain:** Software Testing  
 - **Duration:** 4 Weeks  
